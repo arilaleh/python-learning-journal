@@ -7,4 +7,4 @@ Hi, I'm Ariana Lalehparvar, a data science major at West Valley College. I'm pas
 2. Build a strong foundation in Python that will support my future studies in data science.
 3. Strengthen my problem-solving and critical-thinking skills
 # My First Python Program
-print("Hello World!)
+print("Hello World!")
